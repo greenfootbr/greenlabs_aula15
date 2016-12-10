@@ -10,12 +10,12 @@ Nesta aula vamos aprender a usar a colisão de objetos para realizar a captura d
 ## Equipe | Team
 * Luciene Cavalcante
 * Aecio Junior
-* [Jhonatan Morais](www.getjv.com.br)
+* [Jhonatan Morais](http://www.getjv.com.br)
 
 ## Para mais sobre a iniciativa GreenfootBR acesse:
 * [O site da comunidade DFJUG](http://www.dfjug.org)
 * [O canal do DFJUG no youtube](https://www.youtube.com/user/dfjug)
-* [O site oficial do Greenfoot](www.greenfoot.org)
+* [O site oficial do Greenfoot](http://www.greenfoot.org)
 
 ## Instalação | Installation
 
